@@ -24,3 +24,10 @@
     top: 30px;
     left: -50px;
   }
+
+  .Matrix {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    border-radius: 50%;
+  }
