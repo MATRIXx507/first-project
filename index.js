@@ -1,2 +1,2 @@
 let box = document.querySelector(".box")
-let 
+let content = document.querySelector(".content")
